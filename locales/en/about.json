@@ -1,0 +1,118 @@
+{
+  "about": {
+    "heroTitle": "About Scripto",
+    "heroTagline": "Empowering innovation through technology. Building the future, one solution at a time.",
+
+    "title": "About Us",
+    "subtitle": "We are a team of developers and designers.",
+    "titleRight": "What is Scripto?",
+    "descriptionTitle": "Crafting Digital Excellence",
+    "description": "Based in Damascus, **Scripto** is a team of skilled designers and developers delivering integrated digital solutions for businesses, entrepreneurs, and investors.\n\nWe specialize in designing and developing websites, mobile applications, and custom software systems, with a **strong** focus on quality and user experience.\n\nWe believe technology is not a goal in itself, but a strategic tool to create **real value**. That's why we build flexible, effective solutions that make a measurable impact on business performance.\n\n**Currently**, we are working on local and international projects that demonstrate our technical capabilities and growing expertise, as we aim to build a strong portfolio that reflects our vision.\n\nOur goal is to become a leading software development company in Syria and the region, actively contributing to the digital infrastructure through **sustainable and innovative solutions**.\n\n**Quality first. Innovation always.**",
+
+    "visionTitle": "Our Vision",
+    "visionContent": "To become a leading software company in Syria and the region through sustainable and innovative solutions.",
+
+    "missionTitle": "Our Mission",
+    "missionContent": "Deliver modern, reliable software products that empower businesses and individuals to thrive in the digital world.",
+
+    "techStackTitle": "Technologies We Use",
+
+    "stats": {
+      "title": "Our Impact in Numbers",
+      "subtitle": "Delivering exceptional results through innovation and dedication",
+      "clients": "Happy Clients",
+      "clientsDesc": "Satisfied customers worldwide",
+      "projects": "Projects Completed",
+      "projectsDesc": "Successful deliveries",
+      "experience": "Years Experience",
+      "experienceDesc": "Industry expertise",
+      "successRate": "Success Rate",
+      "successRateDesc": "Project completion rate"
+    },
+
+    "values": {
+      "title": "Our Values",
+      "subtitle": "The principles that guide everything we do",
+      "passion": {
+        "title": "Passion",
+        "description": "We're passionate about creating exceptional digital experiences that make a difference."
+      },
+      "excellence": {
+        "title": "Excellence",
+        "description": "We strive for excellence in every project, ensuring the highest quality standards."
+      },
+      "innovation": {
+        "title": "Innovation",
+        "description": "We embrace new technologies and creative solutions to solve complex problems."
+      },
+      "trust": {
+        "title": "Trust",
+        "description": "Building long-term relationships based on trust, transparency, and reliability."
+      }
+    },
+
+    "techStack": {
+      "badge": "Technical Expertise",
+      "title": "Our Tech Stack",
+      "subtitle": "We leverage cutting-edge technologies to build scalable, performant, and user-friendly applications. Our expertise spans across the entire development stack.",
+      "stats": {
+        "technologies": "Technologies",
+        "categories": "Categories",
+        "qualityFocus": "Quality Focus",
+        "support": "Support"
+      },
+      "categories": {
+        "frontendDesc": "Modern web interfaces with cutting-edge technologies",
+        "backendDesc": "Robust server-side solutions and data management",
+        "mobileDesc": "Cross-platform mobile applications",
+        "designDesc": "Beautiful and intuitive user experiences",
+        "devopsDesc": "Cloud infrastructure and deployment automation",
+        "integrationsDesc": "Third-party integrations and external services",
+        "testingDesc": "Comprehensive testing and quality assurance",
+        "securityDesc": "Security best practices and protection"
+      }
+    },
+
+
+    
+    "ctaTitle": "Let's Build Something Great",
+    "ctaText": "Want to discuss a project or idea? Let's talk.",
+    "ctaButton": "Contact Us",
+    "viewOurWork": "View Our Work",
+
+
+    "descriptionBadge": "About Scripto",
+    "features": {
+      "quality": {
+        "title": "Quality Assured",
+        "subtitle": "Premium standards"
+      },
+      "delivery": {
+        "title": "Fast Delivery",
+        "subtitle": "Quick turnaround"
+      },
+      "team": {
+        "title": "Expert Team",
+        "subtitle": "Skilled professionals"
+      },
+      "security": {
+        "title": "Secure & Reliable",
+        "subtitle": "Trusted solutions"
+      }
+    },
+    "visualElements": {
+      "innovation": {
+        "title": "Innovation",
+        "description": "Cutting-edge technologies and creative solutions"
+      },
+      "excellence": {
+        "title": "Excellence",
+        "description": "Uncompromising quality in every project"
+      },
+      "passion": {
+        "title": "Passion",
+        "description": "Dedicated to creating meaningful digital experiences"
+      }
+    }
+  }
+}

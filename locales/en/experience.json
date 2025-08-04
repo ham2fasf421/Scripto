@@ -1,0 +1,44 @@
+{
+  "experience": {
+    "title": "Work Experience",
+    "subtitle": "What I have done so far",
+    "list": [
+      {
+        "title": "Frontend Developer",
+        "company": "ABC Corp",
+        "date": "Jan 2021 - Present",
+        "icon": "/freelancer.webp",
+        "iconBg": "#b98f43",
+        "points": [
+          "Built modern UIs with React.",
+          "Worked closely with design teams.",
+          "Optimized performance."
+        ]
+      },
+      {
+        "title": "Full Stack Developer",
+        "company": "XYZ Ltd",
+        "date": "Aug 2019 - Dec 2020",
+        "icon": "/unifi-solutions-icon.webp",
+        "iconBg": "#E6DEDD",
+        "points": [
+          "Led backend architecture.",
+          "Integrated third-party APIs.",
+          "Maintained CI/CD pipelines."
+        ]
+      },
+      {
+        "title": "Junior Developer",
+        "company": "Startup Co",
+        "date": "Jun 2018 - Jul 2019",
+        "icon": "/freelancer.webp",
+        "iconBg": "#b98f43",
+        "points": [
+          "Assisted in bug fixes.",
+          "Wrote unit tests.",
+          "Participated in code reviews."
+        ]
+      }
+    ]
+  }
+}

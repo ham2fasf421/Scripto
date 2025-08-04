@@ -1,0 +1,68 @@
+{
+  "docs": {
+    "title": "Documentation",
+    "description": "Learn how to integrate and use our powerful API with comprehensive guides, examples, and API references.",
+    "tabs": {
+      "gettingStarted": "Getting Started",
+      "apiReference": "API Reference",
+      "examples": "Examples"
+    },
+    "gettingStarted": {
+      "installation": {
+        "title": "Installation",
+        "command": "npm install @scripto/client"
+      },
+      "quickStart": {
+        "title": "Quick Start",
+        "content": "<p>Get started with Scripto in just a few steps:</p><ol><li>Install the package using npm or yarn</li><li>Initialize the client with your API key</li><li>Make your first API call</li></ol><p>Here's a basic example:</p><pre><code>import { ScriptoClient } from '@scripto/client';\n\nconst client = new ScriptoClient('YOUR_API_KEY');\nconst response = await client.process('Hello, world!');</code></pre>"
+      },
+      "configuration": {
+        "title": "Configuration",
+        "example": "{\n  \"apiKey\": \"your-api-key\",\n  \"endpoint\": \"https://api.scripto.dev\",\n  \"version\": \"v1\"\n}"
+      }
+    },
+    "apiReference": {
+      "endpoints": {
+        "title": "API Endpoints",
+        "auth": {
+          "title": "Authentication",
+          "description": "Endpoints for managing API keys and authentication",
+          "example": "POST /auth/token\nGET /auth/verify"
+        },
+        "users": {
+          "title": "Users",
+          "description": "User management and profile endpoints",
+          "example": "GET /users/me\nPUT /users/profile"
+        },
+        "data": {
+          "title": "Data Processing",
+          "description": "Core data processing and analysis endpoints",
+          "example": "POST /data/process\nGET /data/results/{id}"
+        }
+      },
+      "authentication": {
+        "title": "Authentication",
+        "content": "<p>All API requests must be authenticated using an API key. Include your API key in the Authorization header:</p><pre><code>Authorization: Bearer YOUR_API_KEY</code></pre>"
+      }
+    },
+    "examples": {
+      "basic": {
+        "title": "Basic Usage",
+        "description": "Learn the fundamentals of integrating Scripto into your application"
+      },
+      "advanced": {
+        "title": "Advanced Features",
+        "description": "Explore advanced features and optimizations"
+      },
+      "authentication": {
+        "title": "Authentication Flow",
+        "description": "Implement secure authentication in your application"
+      },
+      "customization": {
+        "title": "Customization",
+        "description": "Customize Scripto to match your specific needs"
+      }
+    },
+    "viewExample": "View Example"
+  }
+}

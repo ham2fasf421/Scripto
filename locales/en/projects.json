@@ -1,0 +1,133 @@
+{
+  "projects": {
+    "title": "Latest Projects",
+    "description": "Discover my successful projects and innovative solutions",
+    "projectsPageDescription": "Explore our portfolio of web and mobile applications. Filter by category or type to find the projects that interest you.",
+    "backToProjects": "Back to Projects",
+    "projectNotFound": "Project not found",
+    "viewAll": "View All Projects",
+    "viewDemo": "View Demo",
+    "category": "Category",
+    "type": "Type",
+    "year": "Year",
+    "client": "Client",
+    "technologies": "Technologies Used",
+    "features": "Key Features",
+    "duration": "Duration",
+    "teamSize": "Team Size",
+    "status": "Status",
+    "viewLive": "View Live",
+    "viewCode": "View Code",
+    "liveDemo": "Live Demo",
+    "techStack": "Tech Stack",
+    "viewDetails": "View Details",
+    "activeFilters": "Active Filters",
+    "clearAllFilters": "Clear All Filters",
+    "devicePreviews": "Device Previews",
+    "projectOverview": "Project Overview",
+    "keyFeatures": "Key Features",
+    "quickLinks": "Quick Links",
+    "projectPreview": "Project Preview",
+    "purposeText": "This project was built with the purpose of",
+    "goalText": "The main goal is to provide",
+    "audienceText": "It is intended for",
+    "defaultPurpose": "This project was built as a personal challenge to enhance my skills.",
+    "defaultGoal": "The main goal is to provide a clean and responsive user experience.",
+    "defaultAudience": "It is intended for personal use and portfolio presentation.",
+    "ctaText":"Let's discuss your project requirements and create something amazing together",
+    "ctaTitle": "Ready to Start Your Project?",
+
+    "ctaButton": "Contact Us",
+
+    "realEstate": {
+      "title": "Real Estate Platform",
+      "description": "A modern real estate platform offering property listings, smart filtering, and user-friendly design.",
+      "overview": "This SaaS platform is designed for real estate agencies and individual property owners. It allows users to browse, search, and filter properties by location, type, and price. Built with Next.js on the frontend and NestJS on the backend, the platform uses PostgreSQL for data storage and Cloudinary for image handling.",
+      "features": [
+        "Dynamic property listing",
+        "Smart filters (location, price, type)",
+        "Image upload with Cloudinary",
+        "Multi-language support",
+        "Dark/light theme toggle"
+      ],
+      "status": "In Development",
+      "audience": "Real estate agencies, independent property owners",
+      "goal": "To provide a user-friendly, efficient tool for managing and showcasing properties online.",
+      "purpose": "A portfolio SaaS project demonstrating full-stack capabilities and scalable architecture."
+    },
+
+    "ecommercePlatform": {
+      "title": "E-commerce Platform",
+      "description": "A modern multi-platform e-commerce application supporting web and mobile with secure payments and admin management.",
+      "overview": "This project is a complete e-commerce solution built with Next.js on the frontend, NestJS and Prisma for backend and database, and React Native for the mobile app. It supports user authentication, product browsing, filtering, cart system, Stripe payments, and admin panel for product and order management. It features localization and responsive design.",
+      "features": [
+        "Product catalog and filtering",
+        "Cart and checkout with Stripe",
+        "User authentication",
+        "Admin dashboard",
+        "Mobile app with React Native",
+        "Multi-language support",
+        "Dark/light theme"
+      ],
+      "status": "In Development",
+      "audience": "Small to mid-sized businesses, entrepreneurs",
+      "goal": "To create a reusable and scalable e-commerce system suitable for various business cases.",
+      "purpose": "A professional SaaS product demonstrating full-stack architecture across platforms."
+    },
+    "caros": {
+      "title": "Caros - Car Rental and Sales Platform",
+      "description": "A modern platform offering premium car rental and sales services tailored for individuals and businesses.",
+      "overview": "Caros is a comprehensive vehicle rental and sales platform providing customers with access to luxury and economy vehicles. From airport transfers and wedding events to intercity travel and business meetings, Caros ensures safety, convenience, and quality.",
+      "features": [
+        "Book or buy cars online with ease",
+        "Premium and economy vehicle selection",
+        "24/7 customer support and booking",
+        "Mobile-responsive user interface",
+        "Multilingual support (Arabic / English)",
+        "Secure and fast reservation process"
+      ],
+      "audience": "Individuals and businesses looking for reliable transportation and premium vehicle services.",
+      "goal": "To simplify car rental and sales in the region through an elegant and user-friendly online platform.",
+      "purpose": "Provide seamless access to car rental and sales with high-quality service and modern booking features.",
+      "status": "In development"
+    },
+    
+   
+    
+
+    "categories": {
+      "all": "All",
+      "web": "Web",
+      "mobile": "Mobile"
+    },
+    "types": {
+      "all": "All",
+      "landing": "Landing Page",
+      "marketplace": "Marketplace",
+      "ecommerce": "E-commerce",
+      "dashboard": "Dashboard",
+      "ios & android": "iOS & Android App",
+      "blog": "Blog",
+      "sass": "SASS",
+      "real-estate": "Real-Estate"
+    },
+    "noPreviewAvailable": "No {device} preview available.",
+    "videoLoadError": "Failed to load video preview.",
+    "loadingVideo": "Loading video...",
+    "noFeaturesAvailable": "No features available for this project.",
+    "noTechnologiesAvailable": "No technologies listed for this project.",
+    "relatedProjects": "Related Projects",
+    "viewAllProjects": "View All Projects",
+    "viewProject": "View Project",
+    "shareProject": "Share Project",
+    "share": "Share",
+    "shareOnTwitter": "Share on Twitter",
+    "shareOnLinkedIn": "Share on LinkedIn",
+    "shareOnFacebook": "Share on Facebook",
+    "copyLink": "Copy Link",
+    "copied": "Copied!",
+    "linkCopied": "Link copied to clipboard!",
+    "copyFailed": "Failed to copy link",
+    "imageLoadError": "Failed to load {device} image."
+  }
+}

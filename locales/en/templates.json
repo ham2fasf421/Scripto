@@ -1,0 +1,23 @@
+{
+  "templates": {
+    "title": "Premium Website Templates",
+    "description": "Choose from our collection of modern, responsive, and feature-rich website templates",
+    "viewAll": "View All Templates",
+    "orderViaWhatsApp": "Order via WhatsApp",
+    "paymentNotice": "Payment system coming soon. Currently accepting orders via WhatsApp",
+    "howToOrder": "How to Order",
+    "step1Title": "Choose Template",
+    "step1Description": "Browse our collection and select the template that fits your needs",
+    "step2Title": "Contact Us",
+    "step2Description": "Get in touch via WhatsApp to discuss your requirements",
+    "step3Title": "Receive Files",
+    "step3Description": "Get your template files and start building your website",
+    "activeFilters": "Active Filters",
+    "noResults": "No templates found matching your filters",
+    "clearFilters": "Clear all filters",
+    "platformFilter": "Platform",
+    "categories": "Categories",
+    "sortBy": "Sort By",
+    "filters": "Filters"
+  }
+}

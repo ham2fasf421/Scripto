@@ -1,0 +1,50 @@
+import { 
+  SiReact, 
+  SiNextdotjs, 
+  SiTypescript, 
+  SiTailwindcss, 
+  SiNestjs,
+  SiNodedotjs,
+  SiPostgresql,
+  SiFirebase,
+  SiVercel,
+  SiFigma,
+  SiGithub,
+  SiReactquery,
+  SiRedux,
+  SiPrisma,
+  SiGraphql,
+  SiDocker,
+  SiExpo,
+  SiStripe,
+  SiGithubactions,
+  SiRadixui,
+  SiNativescript
+} from "@icons-pack/react-simple-icons";
+
+
+export const techStack = [
+  { icon: SiReact, color: "#61DAFB", name: "React", position: { top: 10, left: 50 } },
+  { icon: SiNextdotjs, color: "#000000", name: "Next.js", position: { top: 25, left: 70 } },
+  { icon: SiTypescript, color: "#3178C6", name: "TypeScript", position: { top: 28, left: 30 } },
+  { icon: SiNestjs, color: "#E0234E", name: "Nest.js", position: { top: 55, left: 80 } },
+  { icon: SiPostgresql, color: "#3388C6", name: "postgres", position: { top: 80, left: 65 } },
+  { icon: SiTailwindcss, color: "#06B6D4", name: "Tailwind", position: { top: 45, left: 85 } },
+  { icon: SiNodedotjs, color: "#339933", name: "Node.js", position: { top: 55, left: 10 } },
+  { icon: SiFigma, color: "#f74a4a", name: "Figma", position: { top: 70, left: 30 } },
+  { icon: SiFirebase, color: "#FFCA28", name: "Firebase", position: { top: 85, left: 45 } },
+  { icon: SiNativescript, color: "#61DAFB", name: "React Native", position: { top: 55, left: 55 } },
+  
+  { icon: SiGithub, color: "#eee", name: "GitHub", position: { top: 32, left: 50 } },
+  { icon: SiReactquery, color: "#FF4154", name: "React Query", position: { top: 20, left: 40 } },
+  { icon: SiRedux, color: "#764ABC", name: "Redux", position: { top: 38, left: 60 } },
+  { icon: SiRadixui, color: "#000000", name: "Radix UI", position: { top: 48, left: 70 } },
+  { icon: SiPrisma, color: "#0C344B", name: "Prisma", position: { top: 60, left: 40 } },
+  { icon: SiGraphql, color: "#E10098", name: "GraphQL", position: { top: 75, left: 30 } },
+  { icon: SiDocker, color: "#2496ED", name: "Docker", position: { top: 80, left: 15 } },
+  { icon: SiGithubactions, color: "#2088FF", name: "GitHub Actions", position: { top: 18, left: 25 } },
+  { icon: SiExpo, color: "#000020", name: "Expo", position: { top: 70, left: 80 } },
+  { icon: SiVercel, color: "#000000", name: "Vercel", position: { top: 15, left: 15 } },
+  { icon: SiStripe, color: "#635BFF", name: "Stripe", position: { top: 85, left: 70 } },
+];
+

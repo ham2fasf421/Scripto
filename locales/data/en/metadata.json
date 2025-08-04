@@ -1,0 +1,34 @@
+{
+  "global": {
+    "siteName": "Scripto Solutions",
+    "defaultDescription": "Professional web development and design solutions for modern businesses",
+    "defaultImage": "/og-image.jpg"
+  },
+  "pages": {
+    "home": {
+      "title": "Building Digital Solutions",
+      "description": "We create innovative software solutions for modern businesses. Expert web development, mobile apps, and UI/UX design services.",
+      "image": "/images/home-og.jpg"
+    },
+    "projects": {
+      "title": "Our Latest Projects",
+      "description": "Explore our portfolio of successful projects and innovative solutions. Web development, mobile apps, and digital transformation projects.",
+      "image": "/images/projects-og.jpg"
+    },
+    "templates": {
+      "title": "Premium Website Templates",
+      "description": "Choose from our collection of modern, responsive, and feature-rich website templates. Ready-to-use solutions for your business.",
+      "image": "/images/templates-og.jpg"
+    },
+    "contact": {
+      "title": "Get in Touch",
+      "description": "Contact Scripto Solutions for your next digital project. We're here to help turn your ideas into reality.",
+      "image": "/images/contact-og.jpg"
+    },
+    "about": {
+      "title": "About Us",
+      "description": "Learn about Scripto Solutions - a team of passionate developers and designers creating innovative digital solutions.",
+      "image": "/images/about-og.jpg"
+    }
+  }
+} 

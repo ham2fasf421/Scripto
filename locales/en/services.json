@@ -1,0 +1,118 @@
+{
+  "services": {
+    "readMore": "Read more",
+
+    "title": "Our Services",
+    "pageDescription": "We offer a comprehensive range of digital services to help you build and grow your tech projects efficiently and professionally. Whether you're looking to modernize an existing platform, launch a new application, improve your online presence, or receive expert tech consulting — we're here to be your partner in digital success.",
+    "modernization": "Digital Modernization",
+    "software": "Web Development",
+    "mobileDev": "Mobile App Development",
+    "techSupport": "Technical Support",
+    "consulting": "Tech Consulting",
+    "seo": "SEO Optimization",
+    "cloud": "Cloud Hosting",
+    "payments": "Payment Integration",
+    "branding": "Brand Identity",
+    "projectManagement": "Project Management",
+    "featuresTitle": "Features",
+    "backToServices": "Back to Services",
+    "notFound": "Service not found",
+    "contactButton": "Contact Us",
+    "relatedTitle": "Related Services",
+    "ctaText": "Let's discuss your service requirements and deliver an amazing experience together",
+    "ctaTitle": "Ready to Benefit from Our Service?",
+    "ctaButton": "Contact us",
+    
+
+   
+
+    "description": {
+      "modernization": "We transform your outdated website or app into a modern, responsive experience",
+
+      "software": "Custom web development solutions tailored to your business",
+      "mobileDev": "Native and cross-platform mobile app development",
+      "techSupport": "Ongoing technical support and security updates",
+      "consulting": "Expert guidance in digital strategy and implementation",
+      "seo": "Improve your site's ranking and visibility on search engines",
+      "cloud": "Secure and reliable cloud hosting solutions",
+      "payments": "Seamless integration with global and local payment systems",
+      "branding": "Professional brand identity and digital design",
+      "projectManagement": "Professional management for your software projects"
+    },
+    "details": {
+      "modernization": "Do you have an outdated website or app that no longer represents your brand or performs well? We offer a specialized service to modernize your existing digital platforms with high-performance, responsive, and user-friendly designs.\nWe rebuild using modern technologies like Next.js, TailwindCSS, and React Native while preserving your existing content or data. This ensures speed, SEO optimization, and a fresh user experience across all devices.",
+
+      "software": "We turn your old designs into responsive, high-performance websites using modern technologies. We build scalable, secure, and flexible web solutions tailored to your business needs.",
+      "mobileDev": "We build native and cross-platform mobile apps for iOS and Android using React Native and Flutter, focusing on speed, performance, and user experience.",
+      "techSupport": "Our 24/7 technical support ensures your website or app runs smoothly. We handle bug fixes, regular security updates, and server monitoring for peak performance.",
+      "consulting": "We provide personalized technical consultations to help you reach your digital goals. We analyze your requirements and propose practical, budget-conscious solutions.",
+      "seo": "We boost your search engine presence through technical optimization, keyword strategy, and integration with Google Analytics and Search Console.",
+      "cloud": "We offer secure, high-speed cloud hosting solutions with full server and database management, backups, and performance monitoring.",
+      "payments": "We integrate secure, user-friendly payment systems into your websites and apps using global and regional gateways, with full reporting and support.",
+      "branding": "We design your complete digital brand identity — logo, colors, typography, and usage guide — for a consistent and memorable user experience.",
+      "projectManagement": "We professionally manage your software projects using modern tools and agile methodologies to ensure delivery on time and on budget."
+    },
+    "features": {
+      "modernization": [
+        "Redesign old UI into modern interfaces",
+        "Improve performance and user experience",
+        "Cross-browser and cross-device compatibility"
+      ],
+      "software": [
+        "End-to-end development from analysis to deployment",
+        "Uses modern web technologies",
+        "Clean, scalable code structure"
+      ],
+      "mobileDev": [
+        "Native and hybrid mobile apps",
+        "iOS and Android support",
+        "Fast UI with high performance"
+      ],
+      "techSupport": [
+        "24/7 technical support",
+        "Regular security updates",
+        "Bug fixing and quick response"
+      ],
+      "consulting": [
+        "In-depth technical analysis",
+        "Tailored digital strategies",
+        "Hands-on implementation support"
+      ],
+      "seo": [
+        "Speed and performance optimization",
+        "Content and meta tag enhancement",
+        "SEO-ready site structure"
+      ],
+      "cloud": [
+        "Secure and fast cloud hosting",
+        "Server and database management",
+        "Automated backups and monitoring"
+      ],
+      "payments": [
+        "Integration with multiple gateways",
+        "Detailed financial reporting",
+        "Support for global/local currencies"
+      ],
+      "branding": [
+        "Professional logo design",
+        "Comprehensive brand guideline",
+        "Visual consistency across platforms"
+      ],
+      "projectManagement": [
+        "Efficient team coordination",
+        "Task tracking and progress updates",
+        "On-time project delivery"
+      ]
+    },
+
+    "aboutServices": {
+      "title": "Our Core Services",
+      "subtitle": "We specialize in delivering comprehensive digital solutions that drive business growth and innovation",
+      "badge": "Core Services",
+      "learnMore": "Learn More",
+      "needMoreTitle": "Need More Services?",
+      "needMoreDescription": "We offer a comprehensive range of digital services including technical support, consulting, SEO optimization, cloud hosting, payment integration, branding, and project management.",
+      "viewAllServices": "View All Services"
+    }
+  }
+}

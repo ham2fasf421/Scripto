@@ -1,0 +1,394 @@
+{
+  "servicesDetails": {
+    "intro": {
+      "software-development": "Our Software Development service is tailored to meet your unique digital needs. We ensure high performance, scalability, and modern user experience across platforms.",
+      "mobile-development": "Our Mobile Development service is tailored to meet your unique digital needs. We ensure high performance, scalability, and modern user experience across platforms.",
+      "tech-support": "Our Tech Support service is tailored to meet your unique digital needs. We ensure high performance, scalability, and modern user experience across platforms.",
+      "consulting": "Our Consulting service is tailored to meet your unique digital needs. We ensure high performance, scalability, and modern user experience across platforms.",
+      "seo": "Our Seo service is tailored to meet your unique digital needs. We ensure high performance, scalability, and modern user experience across platforms.",
+      "cloud-hosting": "Our Cloud Hosting service is tailored to meet your unique digital needs. We ensure high performance, scalability, and modern user experience across platforms.",
+      "payment-integration": "Our Payment Integration service is tailored to meet your unique digital needs. We ensure high performance, scalability, and modern user experience across platforms.",
+      "branding": "Our Branding service is tailored to meet your unique digital needs. We ensure high performance, scalability, and modern user experience across platforms.",
+      "project-management": "Our Project Management service is tailored to meet your unique digital needs. We ensure high performance, scalability, and modern user experience across platforms."
+    },
+    "keyBenefits": {
+      "software-development": [
+        "Enhanced business agility",
+        "Cost-effective digital transformation",
+        "Improved customer engagement",
+        "Future-ready technology solutions"
+      ],
+      "mobile-development": [
+        "Enhanced business agility",
+        "Cost-effective digital transformation",
+        "Improved customer engagement",
+        "Future-ready technology solutions"
+      ],
+      "tech-support": [
+        "Enhanced business agility",
+        "Cost-effective digital transformation",
+        "Improved customer engagement",
+        "Future-ready technology solutions"
+      ],
+      "consulting": [
+        "Enhanced business agility",
+        "Cost-effective digital transformation",
+        "Improved customer engagement",
+        "Future-ready technology solutions"
+      ],
+      "seo": [
+        "Enhanced business agility",
+        "Cost-effective digital transformation",
+        "Improved customer engagement",
+        "Future-ready technology solutions"
+      ],
+      "cloud-hosting": [
+        "Enhanced business agility",
+        "Cost-effective digital transformation",
+        "Improved customer engagement",
+        "Future-ready technology solutions"
+      ],
+      "payment-integration": [
+        "Enhanced business agility",
+        "Cost-effective digital transformation",
+        "Improved customer engagement",
+        "Future-ready technology solutions"
+      ],
+      "branding": [
+        "Enhanced business agility",
+        "Cost-effective digital transformation",
+        "Improved customer engagement",
+        "Future-ready technology solutions"
+      ],
+      "project-management": [
+        "Enhanced business agility",
+        "Cost-effective digital transformation",
+        "Improved customer engagement",
+        "Future-ready technology solutions"
+      ]
+    },
+    "detailedFeatures": {
+      "software-development": [
+        {
+          "title": "Custom Strategy & Planning",
+          "description": "We analyze your goals and develop a tailored strategy that aligns with your business objectives."
+        },
+        {
+          "title": "Full-Cycle Implementation",
+          "description": "From development to deployment, we manage all technical aspects to ensure a seamless experience."
+        }
+      ],
+      "mobile-development": [
+        {
+          "title": "Custom Strategy & Planning",
+          "description": "We analyze your goals and develop a tailored strategy that aligns with your business objectives."
+        },
+        {
+          "title": "Full-Cycle Implementation",
+          "description": "From development to deployment, we manage all technical aspects to ensure a seamless experience."
+        }
+      ],
+      "tech-support": [
+        {
+          "title": "Custom Strategy & Planning",
+          "description": "We analyze your goals and develop a tailored strategy that aligns with your business objectives."
+        },
+        {
+          "title": "Full-Cycle Implementation",
+          "description": "From development to deployment, we manage all technical aspects to ensure a seamless experience."
+        }
+      ],
+      "consulting": [
+        {
+          "title": "Custom Strategy & Planning",
+          "description": "We analyze your goals and develop a tailored strategy that aligns with your business objectives."
+        },
+        {
+          "title": "Full-Cycle Implementation",
+          "description": "From development to deployment, we manage all technical aspects to ensure a seamless experience."
+        }
+      ],
+      "seo": [
+        {
+          "title": "Custom Strategy & Planning",
+          "description": "We analyze your goals and develop a tailored strategy that aligns with your business objectives."
+        },
+        {
+          "title": "Full-Cycle Implementation",
+          "description": "From development to deployment, we manage all technical aspects to ensure a seamless experience."
+        }
+      ],
+      "cloud-hosting": [
+        {
+          "title": "Custom Strategy & Planning",
+          "description": "We analyze your goals and develop a tailored strategy that aligns with your business objectives."
+        },
+        {
+          "title": "Full-Cycle Implementation",
+          "description": "From development to deployment, we manage all technical aspects to ensure a seamless experience."
+        }
+      ],
+      "payment-integration": [
+        {
+          "title": "Custom Strategy & Planning",
+          "description": "We analyze your goals and develop a tailored strategy that aligns with your business objectives."
+        },
+        {
+          "title": "Full-Cycle Implementation",
+          "description": "From development to deployment, we manage all technical aspects to ensure a seamless experience."
+        }
+      ],
+      "branding": [
+        {
+          "title": "Custom Strategy & Planning",
+          "description": "We analyze your goals and develop a tailored strategy that aligns with your business objectives."
+        },
+        {
+          "title": "Full-Cycle Implementation",
+          "description": "From development to deployment, we manage all technical aspects to ensure a seamless experience."
+        }
+      ],
+      "project-management": [
+        {
+          "title": "Custom Strategy & Planning",
+          "description": "We analyze your goals and develop a tailored strategy that aligns with your business objectives."
+        },
+        {
+          "title": "Full-Cycle Implementation",
+          "description": "From development to deployment, we manage all technical aspects to ensure a seamless experience."
+        }
+      ]
+    },
+    "useCases": {
+      "software-development": [
+        "Startups launching new digital products",
+        "Enterprises optimizing their digital infrastructure",
+        "Businesses seeking better customer interfaces"
+      ],
+      "mobile-development": [
+        "Startups launching new digital products",
+        "Enterprises optimizing their digital infrastructure",
+        "Businesses seeking better customer interfaces"
+      ],
+      "tech-support": [
+        "Startups launching new digital products",
+        "Enterprises optimizing their digital infrastructure",
+        "Businesses seeking better customer interfaces"
+      ],
+      "consulting": [
+        "Startups launching new digital products",
+        "Enterprises optimizing their digital infrastructure",
+        "Businesses seeking better customer interfaces"
+      ],
+      "seo": [
+        "Startups launching new digital products",
+        "Enterprises optimizing their digital infrastructure",
+        "Businesses seeking better customer interfaces"
+      ],
+      "cloud-hosting": [
+        "Startups launching new digital products",
+        "Enterprises optimizing their digital infrastructure",
+        "Businesses seeking better customer interfaces"
+      ],
+      "payment-integration": [
+        "Startups launching new digital products",
+        "Enterprises optimizing their digital infrastructure",
+        "Businesses seeking better customer interfaces"
+      ],
+      "branding": [
+        "Startups launching new digital products",
+        "Enterprises optimizing their digital infrastructure",
+        "Businesses seeking better customer interfaces"
+      ],
+      "project-management": [
+        "Startups launching new digital products",
+        "Enterprises optimizing their digital infrastructure",
+        "Businesses seeking better customer interfaces"
+      ]
+    },
+    "testimonials": {
+      "software-development": [
+        {
+          "client": "Client A",
+          "feedback": "The Software Development service was a game changer for our operations!"
+        },
+        {
+          "client": "Client B",
+          "feedback": "We loved how efficiently they delivered our software development."
+        }
+      ],
+      "mobile-development": [
+        {
+          "client": "Client A",
+          "feedback": "The Mobile Development service was a game changer for our operations!"
+        },
+        {
+          "client": "Client B",
+          "feedback": "We loved how efficiently they delivered our mobile development."
+        }
+      ],
+      "tech-support": [
+        {
+          "client": "Client A",
+          "feedback": "The Tech Support service was a game changer for our operations!"
+        },
+        {
+          "client": "Client B",
+          "feedback": "We loved how efficiently they delivered our tech support."
+        }
+      ],
+      "consulting": [
+        {
+          "client": "Client A",
+          "feedback": "The Consulting service was a game changer for our operations!"
+        },
+        {
+          "client": "Client B",
+          "feedback": "We loved how efficiently they delivered our consulting."
+        }
+      ],
+      "seo": [
+        {
+          "client": "Client A",
+          "feedback": "The Seo service was a game changer for our operations!"
+        },
+        {
+          "client": "Client B",
+          "feedback": "We loved how efficiently they delivered our seo."
+        }
+      ],
+      "cloud-hosting": [
+        {
+          "client": "Client A",
+          "feedback": "The Cloud Hosting service was a game changer for our operations!"
+        },
+        {
+          "client": "Client B",
+          "feedback": "We loved how efficiently they delivered our cloud hosting."
+        }
+      ],
+      "payment-integration": [
+        {
+          "client": "Client A",
+          "feedback": "The Payment Integration service was a game changer for our operations!"
+        },
+        {
+          "client": "Client B",
+          "feedback": "We loved how efficiently they delivered our payment integration."
+        }
+      ],
+      "branding": [
+        {
+          "client": "Client A",
+          "feedback": "The Branding service was a game changer for our operations!"
+        },
+        {
+          "client": "Client B",
+          "feedback": "We loved how efficiently they delivered our branding."
+        }
+      ],
+      "project-management": [
+        {
+          "client": "Client A",
+          "feedback": "The Project Management service was a game changer for our operations!"
+        },
+        {
+          "client": "Client B",
+          "feedback": "We loved how efficiently they delivered our project management."
+        }
+      ]
+    },
+    "faq": {
+      "software-development": [
+        {
+          "question": "How much does it cost?",
+          "answer": "Pricing depends on project scope and requirements. Contact us for a free quote."
+        },
+        {
+          "question": "Can we integrate with our current system?",
+          "answer": "Yes, we ensure seamless integration with your existing platforms."
+        }
+      ],
+      "mobile-development": [
+        {
+          "question": "How much does it cost?",
+          "answer": "Pricing depends on project scope and requirements. Contact us for a free quote."
+        },
+        {
+          "question": "Can we integrate with our current system?",
+          "answer": "Yes, we ensure seamless integration with your existing platforms."
+        }
+      ],
+      "tech-support": [
+        {
+          "question": "How much does it cost?",
+          "answer": "Pricing depends on project scope and requirements. Contact us for a free quote."
+        },
+        {
+          "question": "Can we integrate with our current system?",
+          "answer": "Yes, we ensure seamless integration with your existing platforms."
+        }
+      ],
+      "consulting": [
+        {
+          "question": "How much does it cost?",
+          "answer": "Pricing depends on project scope and requirements. Contact us for a free quote."
+        },
+        {
+          "question": "Can we integrate with our current system?",
+          "answer": "Yes, we ensure seamless integration with your existing platforms."
+        }
+      ],
+      "seo": [
+        {
+          "question": "How much does it cost?",
+          "answer": "Pricing depends on project scope and requirements. Contact us for a free quote."
+        },
+        {
+          "question": "Can we integrate with our current system?",
+          "answer": "Yes, we ensure seamless integration with your existing platforms."
+        }
+      ],
+      "cloud-hosting": [
+        {
+          "question": "How much does it cost?",
+          "answer": "Pricing depends on project scope and requirements. Contact us for a free quote."
+        },
+        {
+          "question": "Can we integrate with our current system?",
+          "answer": "Yes, we ensure seamless integration with your existing platforms."
+        }
+      ],
+      "payment-integration": [
+        {
+          "question": "How much does it cost?",
+          "answer": "Pricing depends on project scope and requirements. Contact us for a free quote."
+        },
+        {
+          "question": "Can we integrate with our current system?",
+          "answer": "Yes, we ensure seamless integration with your existing platforms."
+        }
+      ],
+      "branding": [
+        {
+          "question": "How much does it cost?",
+          "answer": "Pricing depends on project scope and requirements. Contact us for a free quote."
+        },
+        {
+          "question": "Can we integrate with our current system?",
+          "answer": "Yes, we ensure seamless integration with your existing platforms."
+        }
+      ],
+      "project-management": [
+        {
+          "question": "How much does it cost?",
+          "answer": "Pricing depends on project scope and requirements. Contact us for a free quote."
+        },
+        {
+          "question": "Can we integrate with our current system?",
+          "answer": "Yes, we ensure seamless integration with your existing platforms."
+        }
+      ]
+    }
+  }
+}

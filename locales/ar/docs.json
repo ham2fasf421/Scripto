@@ -1,0 +1,68 @@
+{
+    "docs": {
+    "title": "التوثيق",
+    "description": "تعلم كيفية دمج واستخدام واجهة برمجة التطبيقات القوية لدينا مع أدلة شاملة وأمثلة ومراجع API.",
+    "tabs": {
+      "gettingStarted": "البدء",
+      "apiReference": "مرجع API",
+      "examples": "أمثلة"
+    },
+    "gettingStarted": {
+      "installation": {
+        "title": "التثبيت",
+        "command": "npm install @scripto/client"
+      },
+      "quickStart": {
+        "title": "البدء السريع",
+        "content": "<p>ابدأ مع Scripto في خطوات قليلة:</p><ol><li>قم بتثبيت الحزمة باستخدام npm أو yarn</li><li>قم بتهيئة العميل باستخدام مفتاح API الخاص بك</li><li>قم بإجراء أول مكالمة API</li></ol><p>إليك مثال أساسي:</p><pre><code>import { ScriptoClient } from '@scripto/client';\n\nconst client = new ScriptoClient('YOUR_API_KEY');\nconst response = await client.process('Hello, world!');</code></pre>"
+      },
+      "configuration": {
+        "title": "الإعدادات",
+        "example": "{\n  \"apiKey\": \"your-api-key\",\n  \"endpoint\": \"https://api.scripto.dev\",\n  \"version\": \"v1\"\n}"
+      }
+    },
+    "apiReference": {
+      "endpoints": {
+        "title": "نقاط النهاية API",
+        "auth": {
+          "title": "المصادقة",
+          "description": "نقاط النهاية لإدارة مفاتيح API والمصادقة",
+          "example": "POST /auth/token\nGET /auth/verify"
+        },
+        "users": {
+          "title": "المستخدمين",
+          "description": "إدارة المستخدمين ونقاط نهاية الملف الشخصي",
+          "example": "GET /users/me\nPUT /users/profile"
+        },
+        "data": {
+          "title": "معالجة البيانات",
+          "description": "نقاط نهاية معالجة وتحليل البيانات الأساسية",
+          "example": "POST /data/process\nGET /data/results/{id}"
+        }
+      },
+      "authentication": {
+        "title": "المصادقة",
+        "content": "<p>يجب مصادقة جميع طلبات API باستخدام مفتاح API. قم بتضمين مفتاح API في رأس التفويض:</p><pre><code>Authorization: Bearer YOUR_API_KEY</code></pre>"
+      }
+    },
+    "examples": {
+      "basic": {
+        "title": "الاستخدام الأساسي",
+        "description": "تعلم أساسيات دمج Scripto في تطبيقك"
+      },
+      "advanced": {
+        "title": "الميزات المتقدمة",
+        "description": "استكشف الميزات المتقدمة والتحسينات"
+      },
+      "authentication": {
+        "title": "تدفق المصادقة",
+        "description": "قم بتنفيذ مصادقة آمنة في تطبيقك"
+      },
+      "customization": {
+        "title": "التخصيص",
+        "description": "قم بتخصيص Scripto لتناسب احتياجاتك المحددة"
+      }
+    },
+    "viewExample": "عرض المثال"
+  }
+}

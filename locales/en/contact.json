@@ -1,0 +1,41 @@
+{
+  "contact": {
+    "title": "Get in Touch",
+    "description": "Get in touch with us for any inquiries",
+    "getinTouch": "Get in Touch",
+    "chooseContact": "Choose your preferred way to reach us. We're here to help with your project needs.",
+    "form": {
+      "title": "Send us a Message",
+      "description": "Fill out the form below and we'll get back to you as soon as possible",
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "sending": "sending...",
+      "message": "Message",
+      "submit": "Send Message",
+      "namePlaceholder": "Your name",
+      "emailPlaceholder": "Your email",
+      "subjectPlaceholder": "Your subject",
+      "messagePlaceholder": "Your message",
+      "success": "Message sent successfully!",
+      "error": "Failed to send message. Please try again."
+    },
+    "social": {
+      "title": "Social Contact",
+      "description": "Follow us on our social media"
+    },
+    
+    "ctaTitle": "Ready to Start Your Project?",
+    "ctaText": "Let's discuss your project requirements and create something amazing together. We're here to turn your ideas into reality.",
+
+    "ctaButton": "Send Message",
+    "viewOurWork": "Call Now",
+    "whyChooseUs": "Why Choose Us?",
+    "advantages": {
+      "fastResponse": "Fast response time within 24 hours",
+      "professionalTeam": "Professional and experienced team",
+      "competitivePricing": "Competitive pricing and transparent quotes",
+      "ongoingSupport": "Ongoing support and maintenance"
+    }
+  }
+}
