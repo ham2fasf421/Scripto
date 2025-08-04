@@ -57,7 +57,7 @@ export const projects: Project[] = [
       "NestJS", "PostgreSQL", "Cloudinary"
     ],
     featuresKey: "realEstate.features",
-    link: "https://real-estate-rouge-five.vercel.app/",
+    link: "https://scripto-technology.com/projects/real-estate",
     github: undefined,
     duration: "Ongoing",
     teamSize: "1 developer",
@@ -85,7 +85,7 @@ export const projects: Project[] = [
       "NestJS", "Stripe", "React Native"
     ],
     featuresKey: "ecommercePlatform.features",
-    link: "https://e-commerce-wine-phi.vercel.app/",
+    link: "https://scripto-technology.com/projects/ecommerce-platform",
     github: undefined,
     duration: "N/A",
     teamSize: "1 developer",
@@ -112,7 +112,7 @@ export const projects: Project[] = [
       "Framer Motion", "Lucide", "Swiper", "React Hook Form"
     ],
     featuresKey: "caros.features",
-    link: "https://caros-orpin.vercel.app/",
+    link: "https://scripto-technology.com/projects/caros",
     github: undefined,
     duration: "N/A",
     teamSize: "4 developers",
